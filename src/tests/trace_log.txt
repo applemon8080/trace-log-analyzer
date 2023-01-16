@@ -1,0 +1,3 @@
+Log Start
+A:FF X:10 Y:FF S:F3 P:NvUBdIzc  $0A:B6CB: 8D 23 01 STA $0123 = #$FF
+Logging Finished

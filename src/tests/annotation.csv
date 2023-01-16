@@ -1,0 +1,7 @@
+address,message
+$0000,test_cpu_memory_0
+$0001,test_cpu_memory_1
+$0002,test_cpu_memory_2
+$000000,test_prg_rom_0
+$000001,test_prg_rom_1
+$000002,test_prg_rom_2
